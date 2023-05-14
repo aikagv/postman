@@ -83,6 +83,6 @@ ___
     * salary: int
 >response
 
-<img src="end_points/ep_.jpeg" alt="end_point_1">
+<img src="end_points/ep_7.jpeg" alt="end_point_1">
 
 ---
