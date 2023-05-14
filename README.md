@@ -2,9 +2,7 @@
 ---
 <details>
 <summary>POSTMAN HW_1</summary>
-
-[HOME WORK 1](https://github.com/aikagv/postman/blob/main/hw_1/task_hw_1.md)
-
+<a href="https://github.com/aikagv/postman/blob/main/hw_1/task_hw_1.md">HOME WORK 1</a>
 </details>
 
 ___
