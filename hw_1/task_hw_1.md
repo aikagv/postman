@@ -17,7 +17,7 @@
 
 >response:
 
-<img src="end_points/ep_1.jpeg" alt="end_point_1">
+<img src="screenshots/ep_1.jpeg" alt="end_point_1">
 
 ---
 
@@ -35,7 +35,7 @@
 
 >response
 
-<img src="end_points/ep_2.jpeg" alt="end_point_2">
+<img src="screenshots/ep_2.jpeg" alt="end_point_2">
 
 ---
 <ul><h3 style="color:#28B5B1">end_point_3</h3>
@@ -52,7 +52,7 @@
 
 >response
 
-<img src="end_points/ep_3.jpeg" alt="end_point_3">
+<img src="screenshots/ep_3.jpeg" alt="end_point_3">
 
 ---
 <ul><h3 style="color:#28B5B1">end_point_4</h3>
@@ -69,7 +69,7 @@
 
 >response
 
-<img src="end_points/ep_4.jpeg" alt="end_point_4">
+<img src="screenshots/ep_4.jpeg" alt="end_point_4">
 
 ---
 <ul><h3 style="color:#28B5B1">end_point_5</h3>
@@ -86,7 +86,7 @@
 
 >response
 
-<img src="end_points/ep_5.jpeg" alt="end_point_5">
+<img src="screenshots/ep_5.jpeg" alt="end_point_5">
 
 ---
 <ul><h3 style="color:#28B5B1">end_point_6</h3>
@@ -103,7 +103,7 @@
 
 >response
 
-<img src="end_points/ep_6.jpeg" alt="end_point_6">
+<img src="screenshots/ep_6.jpeg" alt="end_point_6">
 
 ---
 <ul><h3 style="color:#28B5B1">end_point_7</h3>
@@ -120,6 +120,6 @@
 
 >response
 
-<img src="end_points/ep_7.jpeg" alt="end_point_7">
+<img src="screenshots/ep_7.jpeg" alt="end_point_7">
 
 ---
